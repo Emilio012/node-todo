@@ -1,0 +1,6 @@
+[
+    { "description": "Salir a comprar auriculares", "complete": false },
+    { "description": "Sacar a pasear al perro", "complete": false },
+    { "description": "Reunión de Valores", "complete": true },
+    { "description": "Reunión con el nuevo grupo de Valores (domingo)", "complete": true }
+]
